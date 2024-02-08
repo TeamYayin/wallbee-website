@@ -1,6 +1,7 @@
-baseURL = 'http://example.org/'
+relativeURLs = true
+baseURL = 'http://new.yayinailab.tech/'
 languageCode = 'en-us'
-title = "Megakit"
+title = "Yayin AI Lab"
 Paginate = 20
 PaginatePath = "/"
 summaryLength = 10
