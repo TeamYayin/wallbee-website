@@ -7,7 +7,7 @@ content_blocks:
   - _bookshop_name: "start"
     preheading: "What we are"
     heading: "We are a dynamic team of creative people"
-    text: "We provide consulting services in the area of IFRS and management reporting, helping companies to reach their highest level. We optimize business processes, making them easier."
+    text: "Wall Bee infra projects believe that the realty lays the very premise for mankind. It gives us stability and catapults us to the heights of our aspirations. It enables us to launch our dreams, start our families and thrive in its cocooned stability"
     image_path: "/images/bg/home-7.jpg"
     button:
       text: "Get started"

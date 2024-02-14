@@ -8,9 +8,9 @@ content_blocks:
     preheading: "We are Professionals"
     heading: "Don’t Hesitate to contact with us for any kind of information"
     form_heading: "Contact Form"
-    address: "North Main Street, Brooklyn, Australia"
-    email: contact@mail.com 
-    phone: +88 01672 506 744 
+    address: "#1-9-129/23/B/1, Ground Floor, Street No.19 RamNagar, Hyderabad, Telangana – 500020."
+    email: info@wallbeeinfraprojects.com 
+    phone: +91 9160631715
     facebook: themefisher
     twitter: themefisher
     linkedin: themefisher
