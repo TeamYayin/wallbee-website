@@ -1,7 +1,7 @@
 relativeURLs = true
 baseURL = 'http://wallbeeinfraprojects.in/'
 languageCode = 'en-us'
-title = "Yayin AI Lab"
+title = "Wall Bee InfraProjects"
 Paginate = 20
 PaginatePath = "/"
 summaryLength = 10
