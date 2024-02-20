@@ -1,7 +1,7 @@
 relativeURLs = true
-baseURL = 'http://wallbeeinfraprojects.in/'
+baseURL = 'https://wallbeeinfraprojects.in/'
 languageCode = 'en-us'
-title = "Wall Bee InfraProjects"
+title = "Wall Bee Infra Projects"
 Paginate = 20
 PaginatePath = "/"
 summaryLength = 10
