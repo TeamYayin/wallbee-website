@@ -3,14 +3,14 @@ title: "Home"
 content_blocks:
   - _bookshop_name: "big-hero"
     preheading: "Wall Bee Infra Projects"
-    heading: "Design Smart & Build Strong like a Bee with “Wall Bee Infra Projects”"
-    background_image: "/images/bg/home-1.jpg"
+    heading: "Design Smart & Build Strong like a 🐝.."
+    background_image: "/images/191.jpg"
     link:
-      text: "Get started"
-      url: "#"
+      text: "View Our Services"
+      url: "/services"
   - _bookshop_name: "intro"
-    preheading: "Why Wall Bee Infra Projects ?"
-    heading: "We work with business & provide solution to client with their business problem"
+    preheading: "Why Wall Bee Infra Projects?"
+    heading: "Meticulous Planning, Exceptional Designs, and Unwavering Commitment."
     sections:
       - title: "Innovative & Creative Designs"
         icon: "ti-desktop"
@@ -43,11 +43,11 @@ content_blocks:
     numbers:
       - number: 15
         suffix: "+"
-        text: "Projects Done"
-      - number: 125
-        suffix: "M"
+        text: "Completed Construction Projects"
+      - number: 35
+        suffix: "+"
         text: "Users Worldwide"
-      - number: 39
+      - number: 4
         suffix: ""
         text: "Available Countries"
       - number: 14
@@ -76,7 +76,7 @@ content_blocks:
         icon: "ti-pencil-alt"
         content: "A digital agency isn't here to replace your internal team, we're here to partner."
   - _bookshop_name: "cta"
-    background_image: "/images/bg/home-3.jpg"
+    background_image: "/images/158.jpg"
     preheading: "Our Services"
     heading: "We provide a wide range of creative services "
     content: "DO YOU HAVE ANY QUESTIONs? FEEL FREE TO CONTACT US ANYTIME."

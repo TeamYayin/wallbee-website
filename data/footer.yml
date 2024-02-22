@@ -2,18 +2,18 @@ column:
   - heading: Company
     items:
       - name: "Careers"
-        url: "https://yayin-ai-labs.breezy.hr/"
+        url: "#"
         open_in_new_tab: true
       - name: "Terms & Conditions"
-        url: "/posts/2023/06/15/terms-conditions/"
+        url: "#"
         open_in_new_tab: false
       - name: "Privacy Policy"
-        url: "/posts/2023/06/15/privacy-policy/"
+        url: "#"
         open_in_new_tab: false
       - name: "Support"
         url: "/contact/"
         open_in_new_tab: false
-  - heading: Quick Link
+  - heading: Quick Links
     items:
       - name: "About"
         url: "/about/"

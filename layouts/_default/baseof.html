@@ -7,12 +7,19 @@
 
     <!-- ** Mobile Specific Metas ** -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="description" content="Agency HTML Template" />
+    <meta
+      name="description"
+      content="Our construction management services ensure smooth project delivery for residential properties, including houses, villas, and apartments. From planning to execution, trust our expertise for quality results."
+    />
+    <meta
+      name="keywords"
+      content="construction,infrastructure,development,interior-design,construction-hyderabad,construction-Telangana,construction-Andhra"
+    />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
     />
-    <meta name="author" content="Themefisher" />
+    <meta name="author" content="Team-Yayin" />
     <meta name="generator" content="Themefisher Html5 Agency Template v1.0" />
 
     <!-- bootstrap.min css -->
@@ -64,6 +71,24 @@
                 <a href="{{ .Site.Data.company.github }}" aria-label="github"
                   ><i class="fab fa-github"></i
                 ></a>
+                {{ end }} {{ if .Site.Data.company.instagram }}
+                <li class="list-inline-item">
+                  <a href="{{ .Site.Data.company.instagram }}"
+                    ><i class="fab fa-instagram mr-2"></i
+                  ></a>
+                </li>
+                {{ end }} {{ if .Site.Data.company.linkedin }}
+                <li class="list-inline-item">
+                  <a href="{{ .Site.Data.company.linkedin }}"
+                    ><i class="fab mr-2 fa-linkedin-in"></i
+                  ></a>
+                </li>
+                {{ end }} {{ if .Site.Data.company.youtube }}
+                <li class="list-inline-item">
+                  <a href="{{ .Site.Data.company.youtube }}"
+                    ><i class="fab fa-youtube mr-2"></i
+                  ></a>
+                </li>
                 {{ end }}
               </div>
             </div>
