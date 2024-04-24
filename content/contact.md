@@ -17,5 +17,5 @@ content_blocks:
   - _bookshop_name: "map"
     latitude: 40.712776
     longitude: -74.005974
-    name: "Megakit"
+    name: "Wall Bee Infra"
 ---
