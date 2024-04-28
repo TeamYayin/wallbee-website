@@ -49,7 +49,7 @@ content_blocks:
         twitter: "themefisher"
         instagram: "themefisher"
         linkedin: "themefisher"
-      - name: "Sridevi Samara"
+      - name: "Sridevi Sampara"
         image: "/images/team/team-2.jpg"
         role: "Sr. Architect"
         facebook: "themefisher"
