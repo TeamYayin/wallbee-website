@@ -23,21 +23,21 @@ content_blocks:
   - _bookshop_name: "counter_dark"
     numbers:
       - icon: "ti-check"
-        number: 1730
+        number: 30
         suffix: "+"
-        text: "Projects Done"
+        text: "Constructions Completed"
       - icon: "ti-flag"
-        number: 125
-        suffix: "M"
-        text: "Users Worldwide"
+        number: 5
+        suffix: "+"
+        text: "Ongoing Projects"
       - icon: "ti-layers"
-        number: 39
-        suffix: ""
-        text: "Available Countries"
+        number: 45
+        suffix: "+"
+        text: "Available Cities"
       - icon: "ti-medall"
-        number: 14
+        number: 2
         suffix: ""
-        text: "Awards Won"
+        text: "States"
   - _bookshop_name: "team"
     preheading: "Our Team"
     heading: "Expert Team member to get best service"

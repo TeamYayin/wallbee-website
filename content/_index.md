@@ -14,12 +14,12 @@ content_blocks:
     sections:
       - title: "Innovative & Creative Designs"
         icon: "ti-desktop"
-        content: "‘Best in class’ – extraordinary designs with our experienced design and construction team. Complete hassle-free experience from beginning to end."
+        content: "Our expert team is here to make your dreams a reality! With exceptional design and construction services, we deliver unparalleled results from start to finish. Let us help you create the perfect space for your needs today."
       - title: "Quality Assurance"
         icon: "ti-medall"
-        content: "Quality being the most important attribute of any project remains our top priority as well. Hence unparalleled quality forms the very foundation of all our systems, services and projects."
+        content: "Our commitment to quality is unwavering. It drives every aspect of our work, ensuring excellence in all endeavors. Quality isn't just a goal; it's our guiding principle, leading to exceptional results in every project."
       - title: "Trust"
-        icon: "ti-layers"
+        icon: "ti-link"
         content: "We keep our promises and deliver what is pledged. And by doing so, we earned the unfaltering trust of our clients, partners and associates."
       - title: "Luxury"
         icon: "ti-desktop"
@@ -41,18 +41,18 @@ content_blocks:
       url: "#"
   - _bookshop_name: "counter"
     numbers:
-      - number: 15
+      - number: 30
         suffix: "+"
-        text: "Completed Construction Projects"
-      - number: 35
+        text: "Completed Constructions"
+      - number: 5
         suffix: "+"
-        text: "Users Worldwide"
-      - number: 4
+        text: "Ongoing Projects"
+      - number: 45
+        suffix: "+"
+        text: "Available Cities"
+      - number: 2
         suffix: ""
-        text: "Available Countries"
-      - number: 14
-        suffix: ""
-        text: "Awards Won"
+        text: "States"
   - _bookshop_name: "services"
     preheading: "Our Services"
     heading: "We provide a wide range of creative services"
@@ -79,6 +79,6 @@ content_blocks:
     background_image: "/images/158.jpg"
     preheading: "Our Services"
     heading: "We provide a wide range of creative services "
-    content: "DO YOU HAVE ANY QUESTIONs? FEEL FREE TO CONTACT US ANYTIME."
+    content: "Do You Have Any Questions? Feel Free To Contact Us Anytime."
     phone: "+91 9160631715"
 ---
