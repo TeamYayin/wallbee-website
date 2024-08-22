@@ -41,13 +41,13 @@ content_blocks:
       url: "#"
   - _bookshop_name: "counter"
     numbers:
-      - number: 30
+      - number: 10
         suffix: "+"
         text: "Completed Constructions"
-      - number: 5
+      - number: 10
         suffix: "+"
         text: "Ongoing Projects"
-      - number: 45
+      - number: 15
         suffix: "+"
         text: "Available Cities"
       - number: 2

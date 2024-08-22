@@ -14,12 +14,12 @@ content_blocks:
       url: "/contact/"
   - _bookshop_name: "numbers"
     sections:
-      - title: "Our Mission"
-        text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio."
+      - title: "Why Choose Us"
+        text: "With a wealth of experience amassed by our esteemed founding members and industry veterans, coupled with strategic partnerships, Wall Bee is dedicated to providing personalized services at every stage of your project. Whether it's construction, interior design, or renovation, we are here to help you realize your dream home – your very own Wall Bee home."
       - title: "Vision"
-        text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio."
-      - title: "Our Approach"
-        text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio."
+        text: "At Wall Bee, we aspire to be a pioneering force in engineering, construction, and infrastructure development by prioritizing innovation, professionalism, and unwavering commitment to product excellence. Our aim is to foster sustained growth while delivering unparalleled value to our esteemed customers."
+      - title: "Our Commitment"
+        text: "We are committed to making your journey as stress-free as possible. Our goal is to establish a dependable brand that you can trust and rely on for all your housing needs."
   - _bookshop_name: "counter_dark"
     numbers:
       - icon: "ti-check"
