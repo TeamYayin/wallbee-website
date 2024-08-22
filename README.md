@@ -1,4 +1,4 @@
-# YayinAILab.Tech
+# WallBee Infra
 
 This website theme has been adapted from the MIT licensed [Megakit Bootstrap template from Theme Fisher](https://github.com/themefisher/Megakit-Bootstrap-Agency-Template)
 and converted to Hugo by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
