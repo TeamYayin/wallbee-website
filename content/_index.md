@@ -39,6 +39,9 @@ content_blocks:
     link:
       text: "Get started"
       url: "#"
+    style:
+      padding_left: "20px"   # Added padding-left to the background image.
+      padding_right: "20px"  # Consistent with the other sections.
   - _bookshop_name: "counter"
     numbers:
       - number: 10
