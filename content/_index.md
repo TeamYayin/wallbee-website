@@ -3,7 +3,7 @@ title: "Home"
 content_blocks:
   - _bookshop_name: "big-hero"
     preheading: "Wall Bee Infra Projects"
-    heading: "Sesign Smart & Build Strong <img src='/images/logo.jpg' alt='Bee' style='height: 20px; width: auto;'>"
+    heading: "Design Smart & Build Strong Like <img src='/images/logo.jpg' alt='Bee' style='height: 20px; width: auto;'>"
     background_image: "/images/191.jpg"
     link:
       text: "View Our Services"
