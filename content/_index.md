@@ -36,6 +36,7 @@ content_blocks:
     subheading: "Our Belief"
     content: "Wall Bee believe that the realty lays the very premise for mankind. It gives us stability and catapults us to the heights of our aspirations."
     background_image: "/images/logo-1.png"
+    background_style: "background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh;"
     link:
       text: "Get started"
       url: "#"
