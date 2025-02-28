@@ -3,7 +3,7 @@ title: "Home"
 content_blocks:
   - _bookshop_name: "big-hero"
     preheading: "Wall Bee Infra Projects"
-    heading: "Design Smart & Build Strong like <img src='/images/logo-1.png' alt='logo' style='height: 20px; width: auto;'>"
+    heading: "Design Smart & Build Strong like <img src='/images/logo-1.png' alt='Bee' style='height: 20px; width: auto;'>"
     background_image: "/images/191.jpg"
     link:
       text: "View Our Services"
@@ -35,7 +35,7 @@ content_blocks:
     heading: "We are Perfect Solution"
     subheading: "Our Belief"
     content: "Wall Bee believe that the realty lays the very premise for mankind. It gives us stability and catapults us to the heights of our aspirations."
-    background_image: "/images/logo.jpg"
+    background_image: "/images/logo-1.png"
     link:
       text: "Get started"
       url: "#"
