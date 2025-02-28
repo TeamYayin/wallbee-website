@@ -35,7 +35,7 @@ content_blocks:
     heading: "We are Perfect Solution"
     subheading: "Our Belief"
     content: "Wall Bee believe that the realty lays the very premise for mankind. It gives us stability and catapults us to the heights of our aspirations."
-    background_image: "/images/logo-1.png"
+    background_image: "/images/logo.jpg"
     background_style: "background-size: contain; background-position: center center; background-repeat: no-repeat; height: 100vh; display: flex; align-items: center; justify-content: center;"
     link:
       text: "Get started"
