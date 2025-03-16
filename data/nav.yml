@@ -18,6 +18,5 @@ menu:
     url: "/contact/"
     open_in_new_tab: false
 logo:
-  firstpart: WALL BEE IN
-  lastpart: FRA PROJECTS
+  image: /images/logo.jpg
   
