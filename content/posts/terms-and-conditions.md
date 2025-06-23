@@ -4,7 +4,7 @@ title: Terms & Conditions
 categories:
   - Corporate Documents
 image_path: /images/blog/4.jpg
-author: -
+author: Coming Soon
 ---
 
 **TERMS OF USE - Coming Soon**
